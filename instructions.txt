@@ -1,0 +1,4 @@
+//no of function,  number of variable,  number of edge
+//held by machine A0
+// held by machine A1
+function 10, variable 0, computation cost from 10 to 0, transmission cost 10 to 0, computation cost from 0 to 10, transmission cost 0 to 10

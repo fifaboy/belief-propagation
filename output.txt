@@ -1,0 +1,18 @@
+At time 5 : F0 receives message from x0
+At time 7 : F1 receives message from x2
+At time 8 : F1 receives message from x3
+At time 18 : F0 sending message to x1
+At time 25 : x1 receives message from F0
+At time 28 : x1 sending message to F1
+At time 28 : F1 sending message to x1
+At time 36 : F1 receives message from x1
+At time 36 : x1 receives message from F1
+At time 38 : x1 sending message to F0
+At time 45 : F0 receives message from x1
+At time 57 : F0 sending message to x0
+At time 58 : F1 sending message to x2
+At time 62 : x0 receives message from F0
+At time 63 : x2 receives message from F1
+At time 83 : F1 sending message to x3
+At time 89 : x3 receives message from F1
+Total Time : 89
